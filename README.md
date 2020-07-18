@@ -1,2 +1,2 @@
-# tools-for-work
-Various tools I've built to help my efficiency/effectiveness with work
+# excel-combiner
+Combine & clean excel datafiles easily
